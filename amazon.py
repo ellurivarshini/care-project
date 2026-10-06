@@ -2,4 +2,6 @@ hii \n
 good mng \n
 welcome to icare academy
 Compare the plans
-Choose the plan that fits your needs — free plan to get started, paid plan to scale.
+I can help you understand how our products and services can help you. Please ask me your question and I will do my best to answer. I can also connect you with an AWS sales representative.
+
+
